@@ -306,6 +306,7 @@ span{
     text-align: center;
     color: #27272799;
     margin-top: 10px;
+    font-family: 'Lato', sans-serif;
     }
 
 .email_01{
@@ -336,3 +337,40 @@ span{
 /* banner section ends here */
 
 
+
+
+
+/* footer section starts here */
+
+
+.bg-img_07{
+    width: 100%;
+    background-color: #111010;
+    height: 300px;
+    padding: 40px;
+
+}
+
+.footer_container{
+    text-align: center;
+}
+
+.heading_06{
+    color: #FFFFFFE5;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.pera_06{
+    color: #FFFFFFE5;
+    padding: 20px;
+    text-align: center;
+}
+.pera_07{
+    color: #FFFFFF66;
+    padding: 20px;
+}
+
+
+
+/* footer section ends here */
