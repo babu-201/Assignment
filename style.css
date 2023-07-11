@@ -25,6 +25,7 @@ h1{
     text-transform: lowercase;
     margin: 10px 0px 20px 0px;
     text-align: justify;
+    font-family: 'Lato', sans-serif;
 
 }
 
@@ -86,7 +87,7 @@ h1{
     text-align: center;
     font-size: 14px;
     color: #27272799;
-    
+    font-family: 'Lato', sans-serif;
 }
 
 .feature_container{
@@ -139,6 +140,7 @@ h1{
 .heading-05{
     margin-top: 30px;
    text-decoration: underline;
+   font-family: 'Lato', sans-serif;
 }
 /* feature section starts here */
 
@@ -175,6 +177,7 @@ h1{
 
 .service_container p{
     color: #272727CC;
+    font-family: 'Lato', sans-serif;
 }
 /* service section ends here */
 
@@ -197,6 +200,9 @@ h1{
     align-items: center;
     height: 500px;
 }
+span{
+    color: #E55473;
+}
 
 .img_04{
     width: 200px;
@@ -205,11 +211,13 @@ h1{
 .heading-02{
     font-size: 30px;
     color: #272727;
+    font-family: 'Lato', sans-serif;
 }
 
 .pera_01{
     text-align: center;
     color: #27272799;
+    font-family: 'Lato', sans-serif;
 }
 .btn_01{
     padding: 10px;
@@ -255,14 +263,76 @@ h1{
 }
 .instragram_heading{
     color: #272727;
+    font-family: 'Lato', sans-serif;
 }
 
 .pera_02{
-    color:#27272799 ;
+    color:#27272799;
+    font-family: 'Lato', sans-serif;
+    
 }
 
 .instagram_container{
     margin-top: 100px;
 }
 
-/* instagram section starts here */
+/* instagram section ends here */
+
+
+
+
+
+/* banner section starts here */
+.banner-bg{
+    margin-top: 100px;
+    background-image: url("images/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 67%;
+    margin: 100px auto;
+}
+
+.heading_04{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+    color: #272727;
+    margin-bottom: -5px;
+}
+
+.pera_03{
+    text-align: center;
+    color: #27272799;
+    margin-top: 10px;
+    }
+
+.email_01{
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    width: 60%;
+}
+
+.btn_02{
+    padding: 20px;
+    border: none;
+    color: white;
+    background-color: #E55473;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.banner_container{
+    text-align: center;
+   padding-top: 100px;
+}
+
+.sec{
+   margin-top: 30px;
+}
+
+/* banner section ends here */
+
+
